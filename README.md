@@ -30,7 +30,7 @@ Para garantir que o formulário fique perfeito em qualquer dispositivo, desde mo
 
 ## Como acessar o formulário
 
-1. Clique no link 
+1. Clique no link (https://gustavorubinho.github.io/Responsive-Registration-Form/) 
 
 ## Como executar o projeto
 
